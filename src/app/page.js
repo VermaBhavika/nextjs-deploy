@@ -27,7 +27,7 @@ export default function Home() {
       <Link href="/productlist">Go to product list</Link>
       <h2>Example of fetching api through server component</h2>
       <Link href="/productlist2">Go to product list 2</Link>
-      <Image src={Profile} width={500} height={500} />
+      <Image src={Profile} width={200} height={200} />
       <p className={roboto.className}>font with next js font feature</p>
       <Link href="/location">Get user geo loaction page</Link>
     </main>
